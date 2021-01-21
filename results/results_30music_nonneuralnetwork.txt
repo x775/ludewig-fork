@@ -1,0 +1,427 @@
+markov : HitRate@3:    0.25461009402930523
+markov : HitRate@5:    0.2682991660298369
+markov : HitRate@10:    0.27889822905937467
+markov : HitRate@15:    0.2831843705352693
+markov : HitRate@20:    0.28574276505964047
+markov : MRR@3:    0.2280736729020598
+markov : MRR@5:    0.23124840792548337
+markov : MRR@10:    0.2326825011826825
+markov : MRR@15:    0.23302185294077996
+markov : MRR@20:    0.2331691162973444
+markov : NDCG@3:    0.24941071254657773
+markov : NDCG@5:    0.25591205178812704
+markov : NDCG@10:    0.2595849033936517
+markov : NDCG@15:    0.26075577203366057
+markov : NDCG@20:    0.261376799940606
+markov : Coverage@20:    0.237317357601811
+markov : Popularity@20:    0.030683056985802294
+markov : Saver@50:    1
+markov : Training time:   5.682450294494629
+markov : Testing time seconds:   0.015869044570885178
+markov : Testing time cpu:   0.015869044570885178
+ar : HitRate@3:    0.10665514835365651
+ar : HitRate@5:    0.16084659600624646
+ar : HitRate@10:    0.24155231418413795
+ar : HitRate@15:    0.28016081337010335
+ar : HitRate@20:    0.30900089709937867
+ar : MRR@3:    0.0692040181191916
+ar : MRR@5:    0.08142616650607461
+ar : MRR@10:    0.09224970215351326
+ar : MRR@15:    0.09530360077507553
+ar : MRR@20:    0.09692234344861855
+ar : NDCG@3:    0.09542252232021237
+ar : NDCG@5:    0.12068018565351735
+ar : NDCG@10:    0.1485229494732681
+ar : NDCG@15:    0.1590660904373816
+ar : NDCG@20:    0.166004640976122
+ar : Coverage@20:    0.3969039398166145
+ar : Popularity@20:    0.0599271958520555
+ar : Saver@50:    1
+ar : Training time:   32.47718000411987
+ar : Testing time seconds:   0.01773919864784254
+ar : Testing time cpu:   0.01773919864784254
+sr-steps=30-weighting=quadratic : HitRate@3:    0.2658072233112935
+sr-steps=30-weighting=quadratic : HitRate@5:    0.28477921387513705
+sr-steps=30-weighting=quadratic : HitRate@10:    0.3096654151576569
+sr-steps=30-weighting=quadratic : HitRate@15:    0.32298900222613547
+sr-steps=30-weighting=quadratic : HitRate@20:    0.33205967372163336
+sr-steps=30-weighting=quadratic : MRR@3:    0.23345626917411305
+sr-steps=30-weighting=quadratic : MRR@5:    0.23775736230631764
+sr-steps=30-weighting=quadratic : MRR@10:    0.2411306748391822
+sr-steps=30-weighting=quadratic : MRR@15:    0.24217878445292845
+sr-steps=30-weighting=quadratic : MRR@20:    0.24269505420721113
+sr-steps=30-weighting=quadratic : NDCG@3:    0.25891559030824446
+sr-steps=30-weighting=quadratic : NDCG@5:    0.2677888987591691
+sr-steps=30-weighting=quadratic : NDCG@10:    0.27642040057577233
+sr-steps=30-weighting=quadratic : NDCG@15:    0.28005116636081157
+sr-steps=30-weighting=quadratic : NDCG@20:    0.28224411185784387
+sr-steps=30-weighting=quadratic : Coverage@20:    0.456511101456566
+sr-steps=30-weighting=quadratic : Popularity@20:    0.04817060431159674
+sr-steps=30-weighting=quadratic : Saver@50:    1
+sr-steps=30-weighting=quadratic : Training time:   20.153340578079224
+sr-steps=30-weighting=quadratic : Testing time seconds:   0.01753637297059365
+sr-steps=30-weighting=quadratic : Testing time cpu:   0.01753637297059365
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@3:    0.08861348307140246
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@5:    0.14735687942319833
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@10:    0.26112237100043195
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@15:    0.3221583546532877
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@20:    0.359304914111041
+sknn-k=100-sample_size=500-similarity=cosine : MRR@3:    0.05506085877883651
+sknn-k=100-sample_size=500-similarity=cosine : MRR@5:    0.0682664938919715
+sknn-k=100-sample_size=500-similarity=cosine : MRR@10:    0.08326635413222093
+sknn-k=100-sample_size=500-similarity=cosine : MRR@15:    0.08811783606115171
+sknn-k=100-sample_size=500-similarity=cosine : MRR@20:    0.0902138476281094
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@3:    0.07758932280495534
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@5:    0.10490875043040936
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@10:    0.1438256573478025
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@15:    0.1605251353892657
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@20:    0.1694786293067167
+sknn-k=100-sample_size=500-similarity=cosine : Coverage@20:    0.226355383806279
+sknn-k=100-sample_size=500-similarity=cosine : Popularity@20:    0.08711984921071585
+sknn-k=100-sample_size=500-similarity=cosine : Saver@50:    1
+sknn-k=100-sample_size=500-similarity=cosine : Training time:   9.334957361221313
+sknn-k=100-sample_size=500-similarity=cosine : Testing time seconds:   0.03842735588802714
+sknn-k=100-sample_size=500-similarity=cosine : Testing time cpu:   0.03842735588802714
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@3:    0.1231351961989567
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@5:    0.19805960726982755
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@10:    0.314150912051035
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@15:    0.3667807422666711
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@20:    0.392032428481244
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@3:    0.07805318359526453
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@5:    0.09504989423087551
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@10:    0.11053175420637332
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@15:    0.1147177659994543
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@20:    0.11614178039396295
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@3:    0.10857938058574869
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@5:    0.14363690547622016
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@10:    0.18357492515390564
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@15:    0.19797796542309806
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@20:    0.20406318544833826
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Coverage@20:    0.4141906569409828
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Popularity@20:    0.07326600488927598
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Saver@50:    1
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Training time:   9.127760410308838
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time seconds:   0.03823682609841229
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time cpu:   0.03823682609841229
+
+
+markov : HitRate@3:    0.2688299947661417
+markov : HitRate@5:    0.28172431840890705
+markov : HitRate@10:    0.2937146119807775
+markov : HitRate@15:    0.2981871818052053
+markov : HitRate@20:    0.3001855640671837
+markov : MRR@3:    0.24242280058999843
+markov : MRR@5:    0.24537755150592297
+markov : MRR@10:    0.2470393770424692
+markov : MRR@15:    0.24739118776683508
+markov : MRR@20:    0.24750186651218029
+markov : NDCG@3:    0.26408864411972716
+markov : NDCG@5:    0.27016308153050317
+markov : NDCG@10:    0.2743687792042064
+markov : NDCG@15:    0.27558749774097696
+markov : NDCG@20:    0.27606609922651404
+markov : Coverage@20:    0.1966657820454052
+markov : Popularity@20:    0.01551026726414636
+markov : Saver@50:    1
+markov : Training time:   5.166959047317505
+markov : Testing time seconds:   0.015205244800066684
+markov : Testing time cpu:   0.015205244800066684
+ar : HitRate@3:    0.10705619260598563
+ar : HitRate@5:    0.1573012323357282
+ar : HitRate@10:    0.2386639387162773
+ar : HitRate@15:    0.28248560688966073
+ar : HitRate@20:    0.31084360279773515
+ar : MRR@3:    0.07083947915179745
+ar : MRR@5:    0.08219457264753942
+ar : MRR@10:    0.09303715586248713
+ar : MRR@15:    0.09653307549534312
+ar : MRR@20:    0.09814245050633967
+ar : NDCG@3:    0.09644961560437651
+ar : NDCG@5:    0.11989982329068614
+ar : NDCG@10:    0.14788032299807652
+ar : NDCG@15:    0.15988723745551556
+ar : NDCG@20:    0.16673598502945267
+ar : Coverage@20:    0.3450746700764795
+ar : Popularity@20:    0.030783548651275677
+ar : Saver@50:    1
+ar : Training time:   27.14805269241333
+ar : Testing time seconds:   0.01702508588260879
+ar : Testing time cpu:   0.01702508588260879
+sr-steps=30-weighting=quadratic : HitRate@3:    0.2799162582671171
+sr-steps=30-weighting=quadratic : HitRate@5:    0.2992339534662416
+sr-steps=30-weighting=quadratic : HitRate@10:    0.32297663795974685
+sr-steps=30-weighting=quadratic : HitRate@15:    0.33444354570109913
+sr-steps=30-weighting=quadratic : HitRate@20:    0.34229433315887137
+sr-steps=30-weighting=quadratic : MRR@3:    0.24416742002505862
+sr-steps=30-weighting=quadratic : MRR@5:    0.24858765126643365
+sr-steps=30-weighting=quadratic : MRR@10:    0.25180130068553647
+sr-steps=30-weighting=quadratic : MRR@15:    0.2527009830716337
+sr-steps=30-weighting=quadratic : MRR@20:    0.2531432485585849
+sr-steps=30-weighting=quadratic : NDCG@3:    0.272505702812351
+sr-steps=30-weighting=quadratic : NDCG@5:    0.2815972176807243
+sr-steps=30-weighting=quadratic : NDCG@10:    0.2898261155262062
+sr-steps=30-weighting=quadratic : NDCG@15:    0.2929476077339216
+sr-steps=30-weighting=quadratic : NDCG@20:    0.29483881783093385
+sr-steps=30-weighting=quadratic : Coverage@20:    0.4075562739752467
+sr-steps=30-weighting=quadratic : Popularity@20:    0.025233142305297496
+sr-steps=30-weighting=quadratic : Saver@50:    1
+sr-steps=30-weighting=quadratic : Training time:   18.726969957351685
+sr-steps=30-weighting=quadratic : Testing time seconds:   0.01627493423109694
+sr-steps=30-weighting=quadratic : Testing time cpu:   0.01627493423109694
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@3:    0.1006804015796736
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@5:    0.15325688728172432
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@10:    0.26140743207879336
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@15:    0.31955083979635535
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@20:    0.3605176761669125
+sknn-k=100-sample_size=500-similarity=cosine : MRR@3:    0.06650965091751115
+sknn-k=100-sample_size=500-similarity=cosine : MRR@5:    0.07837623511125967
+sknn-k=100-sample_size=500-similarity=cosine : MRR@10:    0.09255185333716931
+sknn-k=100-sample_size=500-similarity=cosine : MRR@15:    0.09715740860409344
+sknn-k=100-sample_size=500-similarity=cosine : MRR@20:    0.09947481385987403
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@3:    0.09112745805504516
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@5:    0.11564443534416348
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@10:    0.15253265386845757
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@15:    0.16841858579985214
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@20:    0.17830128347320387
+sknn-k=100-sample_size=500-similarity=cosine : Coverage@20:    0.1916813433375956
+sknn-k=100-sample_size=500-similarity=cosine : Popularity@20:    0.04727648679301165
+sknn-k=100-sample_size=500-similarity=cosine : Saver@50:    1
+sknn-k=100-sample_size=500-similarity=cosine : Training time:   8.32799220085144
+sknn-k=100-sample_size=500-similarity=cosine : Testing time seconds:   0.035571580793350425
+sknn-k=100-sample_size=500-similarity=cosine : Testing time cpu:   0.035571580793350425
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@3:    0.1359375743445782
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@5:    0.20497692344292714
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@10:    0.31750487700432983
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@15:    0.3692724936955798
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@20:    0.3967740400628063
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@3:    0.0917273318424756
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@5:    0.10730043932689394
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@10:    0.12241766113750639
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@15:    0.12654460744934906
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@20:    0.1280967184658723
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@3:    0.12222277858587405
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@5:    0.1544038548419508
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@10:    0.1932582577158879
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@15:    0.20743830230626709
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@20:    0.21406740669156693
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Coverage@20:    0.36129701560954425
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Popularity@20:    0.03981472288283423
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Saver@50:    1
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Training time:   8.41308331489563
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time seconds:   0.036267142546986195
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time cpu:   0.036267142546986195
+
+
+markov : HitRate@3:    0.22813726989954616
+markov : HitRate@5:    0.23874356228647187
+markov : HitRate@10:    0.24899291214114527
+markov : HitRate@15:    0.2528172964152771
+markov : HitRate@20:    0.256641680689409
+markov : MRR@3:    0.20397565991875438
+markov : MRR@5:    0.20642071626468242
+markov : MRR@10:    0.20780297824431349
+markov : MRR@15:    0.20810567641300506
+markov : MRR@20:    0.20832743873558693
+markov : NDCG@3:    0.22245376500834094
+markov : NDCG@5:    0.2274705821621801
+markov : NDCG@10:    0.23101642011570458
+markov : NDCG@15:    0.2320611557357332
+markov : NDCG@20:    0.23299176547953407
+markov : Coverage@20:    0.1946834672692536
+markov : Popularity@20:    0.020572529730227482
+markov : Saver@50:    1
+markov : Training time:   5.208999395370483
+markov : Testing time seconds:   0.014596512085257822
+markov : Testing time cpu:   0.014596512085257822
+ar : HitRate@3:    0.10346234256284738
+ar : HitRate@5:    0.1506297486104737
+ar : HitRate@10:    0.2250777624802407
+ar : HitRate@15:    0.2620978022538371
+ar : HitRate@20:    0.2851970832695936
+ar : MRR@3:    0.06537147519249413
+ar : MRR@5:    0.07604405690683787
+ar : MRR@10:    0.08596608803125469
+ar : MRR@15:    0.08891250761374568
+ar : MRR@20:    0.09021341439582359
+ar : NDCG@3:    0.09053330991298833
+ar : NDCG@5:    0.11256518024057055
+ar : NDCG@10:    0.1381690171621584
+ar : NDCG@15:    0.14830302167666248
+ar : NDCG@20:    0.1538669667135328
+ar : Coverage@20:    0.34356434161890365
+ar : Popularity@20:    0.03531217341060094
+ar : Saver@50:    1
+ar : Training time:   26.137083053588867
+ar : Testing time seconds:   0.016502958928815245
+ar : Testing time cpu:   0.016502958928815245
+sr-steps=30-weighting=quadratic : HitRate@3:    0.23782571006068023
+sr-steps=30-weighting=quadratic : HitRate@5:    0.2599561470603233
+sr-steps=30-weighting=quadratic : HitRate@10:    0.2851970832695936
+sr-steps=30-weighting=quadratic : HitRate@15:    0.2967212278823109
+sr-steps=30-weighting=quadratic : HitRate@20:    0.3061037173015145
+sr-steps=30-weighting=quadratic : MRR@3:    0.20766406608536137
+sr-steps=30-weighting=quadratic : MRR@5:    0.2128218856764065
+sr-steps=30-weighting=quadratic : MRR@10:    0.21626840459638422
+sr-steps=30-weighting=quadratic : MRR@15:    0.2171797194131597
+sr-steps=30-weighting=quadratic : MRR@20:    0.21770504777389021
+sr-steps=30-weighting=quadratic : NDCG@3:    0.2307683778282236
+sr-steps=30-weighting=quadratic : NDCG@5:    0.24131396214502435
+sr-steps=30-weighting=quadratic : NDCG@10:    0.2501009720436452
+sr-steps=30-weighting=quadratic : NDCG@15:    0.25324783190737304
+sr-steps=30-weighting=quadratic : NDCG@20:    0.2555032372319338
+sr-steps=30-weighting=quadratic : Coverage@20:    0.40148850944535064
+sr-steps=30-weighting=quadratic : Popularity@20:    0.028218645526393984
+sr-steps=30-weighting=quadratic : Saver@50:    1
+sr-steps=30-weighting=quadratic : Training time:   19.675894021987915
+sr-steps=30-weighting=quadratic : Testing time seconds:   0.017301027775995872
+sr-steps=30-weighting=quadratic : Testing time cpu:   0.017301027775995872
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@3:    0.08301463464382235
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@5:    0.13477130182040692
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@10:    0.2301769415124165
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@15:    0.28305542807607975
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@20:    0.32084034470450257
+sknn-k=100-sample_size=500-similarity=cosine : MRR@3:    0.05417027858514788
+sknn-k=100-sample_size=500-similarity=cosine : MRR@5:    0.06582700185270196
+sknn-k=100-sample_size=500-similarity=cosine : MRR@10:    0.07842426059880535
+sknn-k=100-sample_size=500-similarity=cosine : MRR@15:    0.08262740622003283
+sknn-k=100-sample_size=500-similarity=cosine : MRR@20:    0.08475873018213759
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@3:    0.07339784325506207
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@5:    0.09749810885655738
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@10:    0.13015771579633137
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@15:    0.14462527449143542
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@20:    0.15373162559672174
+sknn-k=100-sample_size=500-similarity=cosine : Coverage@20:    0.17964373544039228
+sknn-k=100-sample_size=500-similarity=cosine : Popularity@20:    0.04874796487245312
+sknn-k=100-sample_size=500-similarity=cosine : Saver@50:    1
+sknn-k=100-sample_size=500-similarity=cosine : Training time:   8.209896326065063
+sknn-k=100-sample_size=500-similarity=cosine : Testing time seconds:   0.03565099643235991
+sknn-k=100-sample_size=500-similarity=cosine : Testing time cpu:   0.03565099643235991
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@3:    0.11284483198205089
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@5:    0.18086788027127632
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@10:    0.28540105043088065
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@15:    0.33134465351078474
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@20:    0.35561674570394164
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@3:    0.07346217259021273
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@5:    0.08889483793109375
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@10:    0.10293439541947984
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@15:    0.10660303993254829
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@20:    0.10797153605204109
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@3:    0.10016045351624996
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@5:    0.13199092806274185
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@10:    0.16807999665795498
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@15:    0.18067320443893012
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@20:    0.18652176261890313
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Coverage@20:    0.35476806887847995
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Popularity@20:    0.04237923763638156
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Saver@50:    1
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Training time:   8.422081708908081
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time seconds:   0.036530246643616725
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time cpu:   0.036530246643616725
+
+
+markov : HitRate@3:    0.2602301460343671
+markov : HitRate@5:    0.2709118117549925
+markov : HitRate@10:    0.28536044171525876
+markov : HitRate@15:    0.28923061045461584
+markov : HitRate@20:    0.2910882914495072
+markov : MRR@3:    0.2272649087500219
+markov : MRR@5:    0.22967215370590138
+markov : MRR@10:    0.2316517552546246
+markov : MRR@15:    0.2319656921390757
+markov : MRR@20:    0.23207106293035265
+markov : NDCG@3:    0.2553927528462333
+markov : NDCG@5:    0.2603687066582706
+markov : NDCG@10:    0.26540732056954186
+markov : NDCG@15:    0.2664747182802355
+markov : NDCG@20:    0.2669233160375582
+markov : Coverage@20:    0.18763286766380685
+markov : Popularity@20:    0.015544412058943333
+markov : Saver@50:    1
+markov : Training time:   5.571345090866089
+markov : Testing time seconds:   0.015341496482376137
+markov : Testing time cpu:   0.015341496482376137
+ar : HitRate@3:    0.10619743020795706
+ar : HitRate@5:    0.16048299705867175
+ar : HitRate@10:    0.24820682181743123
+ar : HitRate@15:    0.3003766964239641
+ar : HitRate@20:    0.3277774910986119
+ar : MRR@3:    0.06733233568983599
+ar : MRR@5:    0.07964721261847046
+ar : MRR@10:    0.09120763189084496
+ar : MRR@15:    0.0953412616475715
+ar : MRR@20:    0.09687737537651588
+ar : NDCG@3:    0.09440866491876507
+ar : NDCG@5:    0.1198093297508885
+ar : NDCG@10:    0.14981052778182374
+ar : NDCG@15:    0.1640674829151539
+ar : NDCG@20:    0.17065708109166852
+ar : Coverage@20:    0.32361817629640877
+ar : Popularity@20:    0.028570209854695546
+ar : Saver@50:    1
+ar : Training time:   29.39520764350891
+ar : Testing time seconds:   0.016994035195985458
+ar : Testing time cpu:   0.016994035195985458
+sr-steps=30-weighting=quadratic : HitRate@3:    0.2741627534960524
+sr-steps=30-weighting=quadratic : HitRate@5:    0.2950616646885804
+sr-steps=30-weighting=quadratic : HitRate@10:    0.32143041436606634
+sr-steps=30-weighting=quadratic : HitRate@15:    0.33422777233087364
+sr-steps=30-weighting=quadratic : HitRate@20:    0.34408380205376954
+sr-steps=30-weighting=quadratic : MRR@3:    0.2344892237301552
+sr-steps=30-weighting=quadratic : MRR@5:    0.23922373015463413
+sr-steps=30-weighting=quadratic : MRR@10:    0.24271155079504347
+sr-steps=30-weighting=quadratic : MRR@15:    0.24371568882121483
+sr-steps=30-weighting=quadratic : MRR@20:    0.24426655703927602
+sr-steps=30-weighting=quadratic : NDCG@3:    0.26715424682977984
+sr-steps=30-weighting=quadratic : NDCG@5:    0.2769240257674918
+sr-steps=30-weighting=quadratic : NDCG@10:    0.2859586595051993
+sr-steps=30-weighting=quadratic : NDCG@15:    0.289442094067046
+sr-steps=30-weighting=quadratic : NDCG@20:    0.29180990894513
+sr-steps=30-weighting=quadratic : Coverage@20:    0.38224128767747323
+sr-steps=30-weighting=quadratic : Popularity@20:    0.02308253946323328
+sr-steps=30-weighting=quadratic : Saver@50:    1
+sr-steps=30-weighting=quadratic : Training time:   20.32550549507141
+sr-steps=30-weighting=quadratic : Testing time seconds:   0.017369350419940602
+sr-steps=30-weighting=quadratic : Testing time cpu:   0.017369350419940602
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@3:    0.08782702925847567
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@5:    0.14366066360493318
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@10:    0.2633778832757108
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@15:    0.3237009133598225
+sknn-k=100-sample_size=500-similarity=cosine : HitRate@20:    0.3583260230146034
+sknn-k=100-sample_size=500-similarity=cosine : MRR@3:    0.056796876343808686
+sknn-k=100-sample_size=500-similarity=cosine : MRR@5:    0.06942910710907026
+sknn-k=100-sample_size=500-similarity=cosine : MRR@10:    0.08555509686888983
+sknn-k=100-sample_size=500-similarity=cosine : MRR@15:    0.09034117289445164
+sknn-k=100-sample_size=500-similarity=cosine : MRR@20:    0.09228366920751745
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@3:    0.07796179433149412
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@5:    0.10403990728106498
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@10:    0.14543190047896834
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@15:    0.16192406571570914
+sknn-k=100-sample_size=500-similarity=cosine : NDCG@20:    0.17025301145687577
+sknn-k=100-sample_size=500-similarity=cosine : Coverage@20:    0.17343975400501102
+sknn-k=100-sample_size=500-similarity=cosine : Popularity@20:    0.04039270144436542
+sknn-k=100-sample_size=500-similarity=cosine : Saver@50:    1
+sknn-k=100-sample_size=500-similarity=cosine : Training time:   9.07571005821228
+sknn-k=100-sample_size=500-similarity=cosine : Testing time seconds:   0.03753305781026408
+sknn-k=100-sample_size=500-similarity=cosine : Testing time cpu:   0.03753305781026408
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@3:    0.13659115537437433
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@5:    0.2124980649156303
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@10:    0.32834511584705095
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@15:    0.37855410495897623
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : HitRate@20:    0.40244594664327366
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@3:    0.08586614376386734
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@5:    0.1031709582537798
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@10:    0.11855178695314891
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@15:    0.12257458958011018
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : MRR@20:    0.12391386322527898
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@3:    0.12179330298390158
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@5:    0.15742870262431038
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@10:    0.197194407085561
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@15:    0.21097499975686806
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : NDCG@20:    0.21672023234805396
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Coverage@20:    0.3339391466099765
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Popularity@20:    0.034250843530325974
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Saver@50:    1
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Training time:   8.692341089248657
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time seconds:   0.03707422099721144
+vsknn-k=100-sample_size=10000-weighting=quadratic-weighting_score=quadratic : Testing time cpu:   0.03707422099721144
+

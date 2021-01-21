@@ -1,0 +1,2 @@
+Metrics;HitRate@10: ;HitRate@20: ;HitRate@30: ;HitRate@50: ;Training time:;Testing time seconds:;Testing time cpu:;Memory usage:;
+vsknn-k=500-sample_size=5000-weighting=quadratic-weighting_score=div-idf_weighting=5;0.3554817275747508;0.45421926910299004;0.49421926910299;0.5451162790697675;0.2692711353302002;0.014296128030564478;0.014296128030564478;43931032;

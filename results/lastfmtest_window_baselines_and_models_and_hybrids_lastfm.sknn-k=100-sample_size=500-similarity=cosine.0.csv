@@ -1,0 +1,2 @@
+Metrics;HitRate@10: ;HitRate@20: ;HitRate@30: ;HitRate@50: ;Training time:;Testing time seconds:;Testing time cpu:;Memory usage:;
+sknn-k=100-sample_size=500-similarity=cosine;0.20956810631229236;0.3109634551495017;0.36930232558139536;0.43853820598006643;0.3093090057373047;0.010554296864319003;0.010554296864319003;38308744;

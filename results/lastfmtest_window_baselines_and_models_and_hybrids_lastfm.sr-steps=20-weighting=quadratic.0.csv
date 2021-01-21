@@ -1,0 +1,2 @@
+Metrics;HitRate@10: ;HitRate@20: ;HitRate@30: ;HitRate@50: ;Training time:;Testing time seconds:;Testing time cpu:;Memory usage:;
+sr-steps=20-weighting=quadratic;0.4586046511627907;0.49262458471760795;0.49262458471760795;0.49262458471760795;2.54445481300354;0.00445389361847175;0.00445389361847175;59103944;
